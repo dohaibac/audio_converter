@@ -1,0 +1,10 @@
+---
+alwaysApply: true
+---
+
+- This project will convert text to audio speek
+- using lib ffmpeg, slugify
+- input text is content of document.txt
+- split text to many small chunk
+- convert each chung to mp3
+- concat many mp3 to a output, save in the same fodler
